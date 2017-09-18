@@ -1,2 +1,2 @@
-# GitLesson
-A brief introduction of git &amp; github.
+# TXOFP In Python
+TaiXuan's Object-oriented Functional Programming in Python.
